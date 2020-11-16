@@ -1,0 +1,1 @@
+var e={name:"z-switch",props:{value:Boolean},setup:(e,t)=>({toggle:()=>{t.emit("update:value",!e.value)}})};e.render=function(e,t,n,u,a,l){return null},e.__file="src/components/test.vue";export{e as Test};
